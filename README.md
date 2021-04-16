@@ -11,6 +11,7 @@ Python -
   * Geo distance - geopy
 
 ## Snaphots:
+![clustering](https://user-images.githubusercontent.com/28645647/115062665-3bfe2c00-9f08-11eb-8baa-0ac422754bcf.gif)
 
 
 ## Steps:
